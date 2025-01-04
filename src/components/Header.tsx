@@ -9,7 +9,7 @@ import React, { useState } from 'react'
           <div className="container mx-auto px-4 py-3 flex justify-between items-center">
             <div className="flex items-center">
               <img 
-                src="https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?q=80&w=1974&auto=format&fit=crop" 
+                src="/images/logo.png" 
                 alt="DECKBROS Logo"
                 className="h-12 w-auto"
               />
