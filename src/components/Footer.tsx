@@ -10,7 +10,7 @@ import React from 'react'
             <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
               <div>
                 <img 
-                  src="/images/logo.png" 
+                  src="https://drive.google.com/uc?export=view&id=1QQvQ2aMpIKEcCjT-jOyDsWfNp8xVr68z" 
                   alt="DECKBROS Logo"
                   className="h-12 w-auto mb-4"
                 />
